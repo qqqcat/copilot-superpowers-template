@@ -1,4 +1,6 @@
+
 {
   "github.copilot.chat.codeGeneration.useInstructionFiles": true,
-  "github.copilot.chat.agent.enabled": true
+  "github.copilot.chat.agent.enabled": true,
+  "github.copilot.chat.agent.autoFix": true
 }
