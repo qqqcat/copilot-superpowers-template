@@ -1,0 +1,11 @@
+name: Copilot Review
+
+on:
+  pull_request:
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder review step
+        run: echo "Copilot reviewing"
